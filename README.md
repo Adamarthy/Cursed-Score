@@ -1,8 +1,11 @@
 # Cursed-Score
 Cursed Score - A score solver for the video game Cursed Words.
+<img width="1920" height="1080" alt="CursedScore" src="https://github.com/user-attachments/assets/b5b09be6-01f9-437e-b925-9927e499aa8d" />
+
 
 # Setup
 1. You will need to have purchased and downloaded the game Cursed Words on steam
+
 https://store.steampowered.com/app/3856460/Cursed_Words_The_Word_Game_That_Isnt/
 
 2. Install Melon Loader
