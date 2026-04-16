@@ -18,3 +18,6 @@ and place it your local game's install folder
 7. Open the game and enjoy.
 
 Note: This mod will disable steam achievement while Melon Loader is installed. To resume earning Steam achievement, open Melon Loader, select Cursed Words and click uninstall.
+
+You are free to use this mod and modify it under the standard MIT License.
+https://github.com/Adamarthy/Cursed-Score/?tab=MIT-1-ov-file
