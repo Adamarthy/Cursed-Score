@@ -68,6 +68,7 @@ namespace CursedScore
             // This tells MelonLoader to look for the [HarmonyPatch] below
             HarmonyInstance.PatchAll(typeof(Main));
             MelonLogger.Msg($"Cursed Scores Mod created by Mathieu Marthy Roy");
+            MelonLogger.Msg($"https://github.com/Adamarthy/Cursed-Score");
         }
 
         // This runs the MOMENT the player clicks reroll
@@ -222,7 +223,6 @@ namespace CursedScore
             }
 
             GUI.Label(new Rect(625, 800, 1000, 100), _displayText, _style);
-            GUI.Label(new Rect(625, 1050, 1000, 100), "Cursed Scores Mod created by Mathieu Marthy Roy", _style);
         }
     }
 
