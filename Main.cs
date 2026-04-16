@@ -26,7 +26,7 @@ namespace CursedScore
         public const string Author = "Mathieu Marthy Roy";
         public const string Version = "0.9.0";
         public const string Company = null;
-        public const string DownloadLink = null;
+        public const string DownloadLink = "https://github.com/Adamarthy/Cursed-Score";
     }
 
     public class Main : MelonMod
