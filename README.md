@@ -41,4 +41,6 @@ It will not currently show the glyph you need to pick to form a word, but mearly
 # List of improvement
 Show the glyph instead of letters.
 
-Add a combobox to change what word to find Best Score | Lowest Score | Longest Word | Shortest Word
+Add a combobox to change what word to find from the categories: Best Score | Lowest Score | Longest Word | Shortest Word
+
+Validate if this Mod actually return the best scoring word.
