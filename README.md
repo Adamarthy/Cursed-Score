@@ -1,5 +1,6 @@
 # Cursed-Score
 Cursed Score - A score solver for the video game Cursed Words.
+
 <img width="1920" height="1080" alt="CursedScore" src="https://github.com/user-attachments/assets/b5b09be6-01f9-437e-b925-9927e499aa8d" />
 
 
@@ -13,10 +14,15 @@ https://melonloader.co/
 
 3. Open Melon Loader, and browse to the Cursed Words game, then click install.
 
-4. Download the file CursedScore.dll
+<img width="502" height="732" alt="Install1" src="https://github.com/user-attachments/assets/5c5db618-1575-423f-a51a-f1976369a4d9" />
+
+
+5. Download the file CursedScore.dll
 https://github.com/Adamarthy/Cursed-Score/blob/main/CursedScore.dll
 and place it your local game's install folder
 [Path to steam library]\SteamLibrary\steamapps\common\Cursed Words\Mods\
+
+<img width="775" height="90" alt="Install2" src="https://github.com/user-attachments/assets/191d1592-674b-45d1-a656-0850c6376117" />
 
 6. Open the game and enjoy.
 
