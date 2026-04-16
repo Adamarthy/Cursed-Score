@@ -28,3 +28,8 @@ But it will find a very good scording word in a very reasonable time, usually le
 It work well with stickers and stamp of all type.
 It might not work well for quests.
 It will not currently show the glyph you need to pick to form a word, but mearly what the game think the word will be.
+
+# List of improvement
+Show the glyph instead of letters.
+
+Add a combobox to change what word to find Best Score | Lowest Score | Longest Word | Shortest Word
