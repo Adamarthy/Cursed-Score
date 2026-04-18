@@ -1,7 +1,7 @@
 # Cursed-Score
 Cursed Score - A score solver for the video game Cursed Words.
 
-<img width="1920" height="1080" alt="CursedScore" src="https://github.com/user-attachments/assets/b5b09be6-01f9-437e-b925-9927e499aa8d" />
+<img width="1920" height="1080" alt="words" src="https://github.com/user-attachments/assets/d1f2671a-0283-4b44-bde7-4f74e92ee779" />
 
 
 # Setup
@@ -39,8 +39,5 @@ It might not work well for quests.
 It will not currently show the glyph you need to pick to form a word, but mearly what the game think the word will be.
 
 # List of improvement
-Show the glyph instead of letters.
 
-Add a combobox to change what word to find from the categories: Best Score | Lowest Score | Longest Word | Shortest Word
-
-Validate if this Mod actually return the best scoring word.
+Various bug fixes.
