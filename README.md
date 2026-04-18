@@ -18,7 +18,7 @@ https://melonloader.co/
 
 
 5. Download the file CursedScore.dll
-[https://github.com/Adamarthy/Cursed-Score/blob/main/CursedScore.dll](https://github.com/Adamarthy/Cursed-Score/releases)
+[CursedScore.dll](https://github.com/Adamarthy/Cursed-Score/releases)
 and place it your local game's install folder
 [Path to steam library]\SteamLibrary\steamapps\common\Cursed Words\Mods\
 
